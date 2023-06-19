@@ -35,7 +35,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>22.0</version>
+            <version>32.0.0-android</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
@@ -52,5 +52,5 @@
             <artifactId>hibernate-core</artifactId>
         </dependency>
     </dependencies>
-    <build />
+    <build/>
 </project>
